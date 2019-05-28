@@ -1,2 +1,2 @@
-# hello-word
-Sample short description
+# hello-word - added text
+My own description
